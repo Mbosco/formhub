@@ -1,6 +1,3 @@
-Microensure Afya
-=======
-
 Installation
 ------------
 #TODO
